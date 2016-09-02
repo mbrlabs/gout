@@ -1,0 +1,2 @@
+# Gout
+Useful Go utilities
